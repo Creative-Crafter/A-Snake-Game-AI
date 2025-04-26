@@ -23,8 +23,6 @@ Featuring Q-Learning AI training, human control mode, local learning memory, and
 
 ## 📸 Screenshots
 
-*(Add your own screenshots here!)*
-
 ![demo.mp4](/videos/demo.mp4)
 
 ## 💡 How to Use
